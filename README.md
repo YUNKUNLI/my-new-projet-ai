@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-## AI paiting
+## AI paiting (red/color)
 
 Final project for the Building AI course
 
